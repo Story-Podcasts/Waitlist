@@ -58,7 +58,7 @@ export const Hero: React.FC = () => {
         </main>
 
         <p className="text-xl text-muted-foreground md:w-10/12 mx-auto lg:mx-0">
-          Create & Listen podcasts IP Backed Podcasts without having to worry about your content's ownership.
+          Create & Listen podcasts IP Backed Podcasts without having to worry about your content&apos;s ownership.
         </p>
 
         <form
