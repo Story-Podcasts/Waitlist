@@ -43,22 +43,23 @@ export const Hero: React.FC = () => {
       <div className="text-center lg:text-start space-y-6">
         <main className="text-5xl md:text-6xl font-bold">
           <h1 className="inline">
-            Owned {" "}
+            Own your {" "}
             <span className="inline bg-gradient-to-r from-[#F596D3]  to-[#D247BF] text-transparent bg-clip-text">
-              Podcasts
+            Podcasts.
             </span>{" "}
-            for
+            Listen to
           </h1>{" "}
-          everyone,{" "}
           <h2 className="inline">
             <span className="inline bg-gradient-to-r from-[#61DAFB] via-[#1fc0f1] to-[#03a3d7] text-transparent bg-clip-text">
-              everywhere
+            IP registered
             </span>{" "}
+            Podcasts on chain
           </h2>
         </main>
 
         <p className="text-xl text-muted-foreground md:w-10/12 mx-auto lg:mx-0">
-          Create & Listen podcasts IP Backed Podcasts without having to worry about your content&apos;s ownership.
+        Create and enjoy IP registered ownership for your content. Listen to endless podcasts for free.
+        All in one platform designed for listeners and creators.
         </p>
 
         <form

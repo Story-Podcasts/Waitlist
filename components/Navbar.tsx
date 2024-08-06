@@ -34,7 +34,7 @@ export const Navbar = () => {
               href="/"
               className="ml-2 font-black text-2xl flex"
             >
-              StoryPods
+              STORYPODS
             </a>
           </NavigationMenuItem>
 
